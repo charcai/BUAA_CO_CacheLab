@@ -3,3 +3,5 @@ csim
 test-trans
 tracegen
 *.o
+*.dSYM/
+.csim_results
