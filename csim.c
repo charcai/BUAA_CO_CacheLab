@@ -158,7 +158,7 @@ int main(int argc, char *argv[]) {
         ull S_addr = getaddr(addr, S, b);
         switch(op) {
             case 'I': {
-                puts("I");
+            //    puts("I");
                 break;
             }
             case 'L': {
